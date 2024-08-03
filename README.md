@@ -4,9 +4,9 @@ The MICA algorithm integrates partitioning and clustering methods to capture and
 
 ## Mutation Impact Clustering Algorithm (MICA) - Standard Version
 
-This repository contains the standard version of the Mutation Impact Clustering Algorithm (MICA), which does not perform weight calculations.
+This repository contains the standard version of MICA, which does not perform weight calculations for analyzing mutation impacts.
 
-For the weighted version of MICA with weight calculations, please visit the [MICA-Weighted](https://github.com/raeufroushangar/MICA-Weighted) repository.
+For the weighted version of MICA (with weight calculations), please visit the [MICA-Weighted](https://github.com/raeufroushangar/MICA-Weighted) repository.
 
 ## Project Description
 
