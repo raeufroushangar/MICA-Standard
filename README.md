@@ -116,4 +116,4 @@ This directory contains the output results from the algorithm. The following fil
 
 6. To see the help message for the script:
    ```bash
-   python3 ecmpia_main.py -h
+   python3 mica_main.py -h
